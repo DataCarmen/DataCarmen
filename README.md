@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **web/app analytics and AB testing.**
 
-- 📫 How to reach me **devcarme@gmail.com**
+- 📫 How to reach me: **devcarme@gmail.com**
 
 <h3 align="left">Analytics & AB Testing Tools:</h3>
 <p align="left"> 
