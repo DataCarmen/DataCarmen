@@ -5,15 +5,15 @@
 <h3 align="center">A passionate Senior digital data analyst from Spain</h3>
 
 
-- 🔭 I’m currently working on [Accenture](https://www.accenture.com/us-en)
+- 👩‍💻 I’m currently working on [Accenture](https://www.accenture.com/us-en)
 
-- 🌱 I’m currently learning **about cryptocurrencies.**
+- 📊 I’m currently learning **about data science.**
 
-- 👯 I’m looking to collaborate on **data analysis projects.**
+- 👩‍🏫 I’m looking to collaborate on **data analysis projects.**
 
-- 👨‍💻 All of my projects are available at [carmenweb.com](carmenweb.com)
+- 🖥 All of my projects are available at [carmenweb.com](carmenweb.com)
 
-- 💬 Ask me about **web/app analytics and AB testing.**
+- ℹ️ Ask me about **web/app analytics and AB testing.**
 
 - 📫 How to reach me: **devcarme@gmail.com**
 
@@ -26,6 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40" />
   <img src="https://helpx.adobe.com/content/dam/help/images/Marketing_Cloud/mc_target_noshadow_128.png" alt="Adobe Taget" width="40" height="40" />
   <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/logo_optimize_icon_color.svg" alt="Google Optimize" width="40" height="40" />
+  <img src="https://www.observepoint.com/wp-content/uploads/2022/07/ObservePoint-Gray-Logo.svg" alt="Observe Point" width="80" height="40" />
  </p>
  <h3 align="left">Data vizz Tools:</h3>
  <p>
